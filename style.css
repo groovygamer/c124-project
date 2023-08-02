@@ -1,0 +1,34 @@
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+footer
+{
+    bottom: 0;
+    position: fixed;
+    font-size: large;
+    background-color: peru;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    text-decoration: wavy;
+    text-decoration: underline;
+    text-decoration-color: royalblue;
+    color: wheat;
+    text-transform: capitalize;
+    text-size-adjust: calc();
+}
+
+.head
+{
+    text-align: center;
+    text-decoration: wavy;
+    text-decoration: underline;
+    text-size-adjust: calc();
+    color: rebeccapurple;
+    background-color: darksalmon;
+    background-image: repeating-linear-gradient();
+}
